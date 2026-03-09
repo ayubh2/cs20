@@ -29,7 +29,7 @@ public class PizzaCost {
 		
 		System.out.println("The cost of making the pizza is: " + cost);
 		
-		
+		 
 		
 		
 		scanner.close();
