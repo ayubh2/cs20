@@ -15,8 +15,7 @@ public class Evens
 		{
 			latestValue += 2;
 			
-			System.out.println(latestValue);
-		}
+			System.out.println(latestValue);		}
 
 	}
 
