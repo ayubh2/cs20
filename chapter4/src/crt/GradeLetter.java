@@ -73,3 +73,15 @@ public class GradeLetter {
 	}
 
 }
+/* Screen Dump
+
+Enter the pecentage as a number: 
+20
+The corresponding grade letter is: F
+
+
+Enter the pecentage as a number: 
+90
+The corresponding grade letter is: A
+ 
+ */

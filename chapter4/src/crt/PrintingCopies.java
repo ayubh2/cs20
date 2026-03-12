@@ -63,3 +63,18 @@ public class PrintingCopies {
 	}
 
 }
+/* Screen Dump
+
+Enter the number of copies to be printed: 
+10
+Price per copy is $0.30
+Total Cost is: $3.0
+Thanks for using the printing cost calculator by Ayub.
+
+
+Enter the number of copies to be printed: 
+1001
+Price per copy is $0.25
+Total Cost is: $250.25
+ 
+ */
