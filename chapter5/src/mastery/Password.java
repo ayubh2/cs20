@@ -8,12 +8,17 @@ public class Password {
 	{
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the password: ");
-		int password = 6767;
+		int password = scanner.nextInt();
 		
 		if (password == 6767) {
 			System.out.println("Welcome");
 			}
-		else System.out.println("The password you typed is incorrect");
+		if (password > 6767) {
+			System.out.println("The password you typed is incorrect");
+			}
+		if (password < 6767) {
+			System.out.println("The password you typed is incorrect");
+			}
 	}
 
 }
