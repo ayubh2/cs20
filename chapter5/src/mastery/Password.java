@@ -19,6 +19,7 @@ public class Password {
 		if (password < 6767) {
 			System.out.println("The password you typed is incorrect");
 			}
+		else System.out.println("Access Denied");
 	}
 
 }
