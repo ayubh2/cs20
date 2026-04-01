@@ -9,16 +9,16 @@ public class CountVowels {
 		Scanner scanner = new Scanner(System.in);
 		
 		String text;
-		int amount = 0;
+		int vowels = 0;
 		
 		System.out.println("Enter text: ");
 	    text = scanner.next();
 		
-	    for(int i = 1; i <= amount; i += 2)
+	    for(int i = 1; i <= vowels; i += 2)
 		{
-			amount = amount + i;
+			vowels = vowels + i;
 		}
-		System.out.println("The number of vowels in "+ text + " is " + amount);
+		System.out.println("The number of vowels in "+ text + " is " + vowels);
 
 	}
 
