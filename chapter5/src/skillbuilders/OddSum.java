@@ -8,7 +8,7 @@ public class OddSum {
 	{
 	
 		    Scanner scanner = new Scanner(System.in);
-		
+		    
 			int max = 0;
 			int sum = 0;
 			int step = 2;
