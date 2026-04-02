@@ -10,7 +10,6 @@ public class CountVowels {
 		
 		String phrase, aeiou;
 		int vowels;
-		int mid;
 		
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter text: ");
