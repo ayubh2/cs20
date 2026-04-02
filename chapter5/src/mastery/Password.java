@@ -4,23 +4,25 @@ import java.util.Scanner;
 
 public class Password {
 
-	public static void main(String[] args) 
-	{
-		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter the password: ");
-		int password = scanner.nextInt();
-		
-		if (password == 6767) {
-			System.out.println("Welcome");
-			}
-		if (password > 6767) {
-			System.out.println("The password you typed is incorrect");
-			}
-		if (password < 6767) {
-			System.out.println("The password you typed is incorrect");
-			}
-		else System.out.println("Access Denied. 3 Attempts Used!");
-	}
+	 public static void main(String[] args) {
+	        String password = "Ayub";
+	        int attempts = 0, maxAttempts = 3;
+	        Scanner input = new Scanner(System.in);
 
-}
+	        // PASSWORD IS CASE SENSITIVE
+	     
+	        while (attempts < maxAttempts) {
+	            System.out.print("Enter password: ");
+	            if (input.nextLine().equals(password)) {
+	                System.out.println("Welcome!");
+	                return; 
+	            } else {
+	                attempts++;
+	                System.out.println("The password you typed is incorrect");
+	            }
+	        }
+	        System.out.println("Access Denied");
+	        input.close();
+	    }
+	}
  
