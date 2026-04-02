@@ -14,8 +14,8 @@ public class CountVowels {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter text: ");
 	    phrase = input.nextLine();
-	    input.close();
-	   
+	    input.close(); 
+	    
 
 	
 	   
