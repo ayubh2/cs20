@@ -8,17 +8,18 @@ public class CountVowels {
 	{
 		Scanner scanner = new Scanner(System.in);
 		
-		String text;
-		int vowels = 0;
+		String phrase, aeiou;
+		int vowels;
+		int mid;
 		
+		Scanner input = new Scanner(System.in);
 		System.out.println("Enter text: ");
-	    text = scanner.next();
-		
-	    for(int i = 1; i <= vowels; i += 2)
-		{
-			vowels = vowels + i;
-		}
-		System.out.println("The number of vowels in "+ text + " is " + vowels);
+	    phrase = input.nextLine();
+	    input.close();
+	   
+
+	
+	   
 
 	}
 
