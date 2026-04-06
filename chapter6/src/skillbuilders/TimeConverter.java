@@ -10,6 +10,8 @@ public class TimeConverter {
 	  Scanner input = new Scanner(System.in);
           
 	  System.out.print("Enter the days: ");
+	  
+	  
 	}
 
 }
