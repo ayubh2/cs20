@@ -23,3 +23,9 @@ public class AddCoins {
 	}
 
 }
+
+/* Screen Dump
+
+Paste the output of your code here
+ 
+ */

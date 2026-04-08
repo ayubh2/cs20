@@ -22,3 +22,9 @@ public class PerfectIntegers {
 	}
 
 }
+
+/* Screen Dump
+
+Paste the output of your code here
+ 
+ */
