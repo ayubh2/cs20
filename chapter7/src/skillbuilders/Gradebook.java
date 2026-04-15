@@ -11,7 +11,8 @@ public class Gradebook
     	Student jasmine = new Student("Jasmin Jordan", 3.5);
 	
     	 ayub.updateGPA(4.0);
-    	
+    	 amy.updateGPA(3.5);
+    	 
 	    System.out.println(ayub); //Automatically calls toString()
 	    System.out.println(ali);
 	    System.out.println(amy);
