@@ -68,7 +68,7 @@ public class Circle
 	{
 		String circ;
 		
-		circ = "Circle has radius "+ radius;
+		circ = "Circle has radius " + radius;
 		
 		return(circ);
 	}
