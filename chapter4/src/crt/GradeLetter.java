@@ -25,7 +25,7 @@ public class GradeLetter {
 			
 			System.out.println("The corresponding grade letter is: F");
 		}
-		
+		 
 		// SCORES 61 - 69 (D)
 
 		
