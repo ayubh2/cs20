@@ -1,3 +1,16 @@
+/*
+
+Program: MySavings.java          Last Date of this Revision: May 4, 2026
+
+Purpose: An application that asks the user if they want to see their money in the bank, add money or take out money from the bank.
+
+Author: Ayub Handule 
+School: CHHS
+Course: Computer Science 20
+ 
+
+*/
+
 package mastery;
 
 import java.util.Scanner;
