@@ -1,6 +1,6 @@
 /*
 
-Program: DigitExtractor.java          Last Date of this Revision: May 4, 2026
+Program: DigitExtractor.java          Last Date of this Revision: May 5, 2026
 
 Purpose: An application that asks the user
 
