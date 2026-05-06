@@ -1,6 +1,6 @@
 /*
 
-Program: DigitExtractor.java          Last Date of this Revision: May 5, 2026
+Program: DigitExtractor.java          Last Date of this Revision: May 6, 2026
 
 Purpose: An application that asks the user for an integer than the user can decide if they want to see the ones, tens, hundreds place for that integer or even the whole number.
 
