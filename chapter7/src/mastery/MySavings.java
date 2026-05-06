@@ -88,3 +88,18 @@ public class MySavings {
 	}
 
 }
+
+/* Screen Dump
+
+1. Show total in bank.
+2. Add a penny
+3. Add a nickel
+4. Add a dime
+5. Add a quarter
+6. Take money out of bank
+Enter 0 to quit
+Enter Your Choice: 
+2
+Succesfully Added! Your new total amount in bank is: $0.01
+ 
+ */

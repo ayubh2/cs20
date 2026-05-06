@@ -64,3 +64,17 @@ public class DigitExtractor {
 	}
 
 
+/* Screen Dump
+
+Enter an integer: 
+871
+show (W)hole number.
+show (O)nes place number.
+show (T)ens place number.
+show (H)undreds place number.
+(Q)uit
+Enter your choice: 
+T
+Answer: 7
+ 
+ */
