@@ -60,7 +60,7 @@ public class DigitExtractor {
 
 		}
 		
-		
+		scanner.close();
 		}
 	}
 
