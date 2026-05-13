@@ -13,12 +13,16 @@ Course: Computer Science 20
 
 package mastery;
 
+import java.util.Scanner;
+
 public class EvensAndOdds {
 
 	public static void main(String[] args) 
 	{
+		int numIntegers = 25;
 		
 
+		
 	}
 
 }
