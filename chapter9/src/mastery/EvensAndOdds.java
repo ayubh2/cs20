@@ -19,7 +19,8 @@ public class EvensAndOdds {
 
 	public static void main(String[] args) 
 	{
-		int numIntegers = 25;
+	      int[] integers = {0,1,2,3};
+	      System.out.println(integers[0]);
 		
 
 		
