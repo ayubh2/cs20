@@ -50,3 +50,9 @@ public class EvensAndOdds {
 	}
 
 }
+/* Screen Dump
+
+Even Numbers: 30 92 38 10 86 90 82 84 16 74 12 92 
+Odd Numbers: 97 95 91 39 31 99 3 81 3 85 89 23 81 
+ 
+ */
