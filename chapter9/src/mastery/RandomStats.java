@@ -32,7 +32,7 @@ public class RandomStats {
         // Then displays the results.
         System.out.println("Number of Ocurrences:");
         for (int i = 0; i < counts.length; i++) {
-        System.out.println(i + " appeared " + counts[i] + " times");
+        System.out.println(i + " appeared " + counts[i] + " times"); 
       
 	}
 
